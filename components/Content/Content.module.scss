@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    height: 60vh;
+}
+.container_left{
+    padding: 10px;
+    font-size: 1.2vw;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container_right{
+    padding: 10px;
+}
+.image1{
+    cursor: pointer;
+    cursor: pointer; 
+    -webkit-transition-property: all; 
+    -webkit-transition-duration: 0.5s; 
+    -webkit-transition-timing-function: ease; 
+}
+.image1:hover {
+    background: rgb(47, 95, 255); 
+    box-shadow: 0 0 30px rgb(47, 196, 255); 
+    
+}
